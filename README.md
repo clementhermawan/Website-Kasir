@@ -122,6 +122,6 @@ GitHub: [@clementhermawan](https://github.com/clementhermawan)
 
 ## 📄 License
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License – see the [LICENSE](https://github.com/clementhermawan/Licensi) file for details.
 
 ---
