@@ -62,7 +62,7 @@ A responsive web-based Point of Sale (POS) system designed for small businesses.
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/clementhermawan/web-kasir.git
+git clone https://github.com/clementhermawan/Website-Kasir.git
 ```
 
 ### 2. Import database
